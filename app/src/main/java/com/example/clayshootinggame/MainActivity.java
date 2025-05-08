@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             gameStop();
         else if (v == iv_gun)
             shootingStart();
-        
+
         }
 
     private void shootingStart() {
